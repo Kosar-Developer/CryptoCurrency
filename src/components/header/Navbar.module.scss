@@ -1,0 +1,19 @@
+$color_1: #6900ff;
+$background-color_1: #272A2E;
+
+.navbar {
+	display: flex;
+	justify-content: left;
+	align-items: center;
+	width: 100%;
+	background-color: $background-color_1;
+	position: fixed;
+}
+.icon {
+	font-size: 2rem;
+	margin-left: 55px;
+	color: $color_1;
+}
+.purple {
+	color: $color_1;
+}
